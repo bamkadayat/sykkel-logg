@@ -23,8 +23,8 @@ sykkel-logg/
 │   │   ├── Dashboard.tsx
 │   │   ├── LogRide.tsx
 │   │   ├── RideDetail.tsx
-│   │   └── Login.tsx
-│
+│   │   └── SignIn.tsx
+│       └── SignUp.tsx
 │   ├── services/                # Nhost client config, helpers
 │   │   └── nhost.ts
 │
