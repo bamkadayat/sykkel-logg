@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
     "@nhost/nhost-js": "^3.2.8",
     "@nhost/react": "^3.10.4",
+    "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-slot": "^1.2.3",
     "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.7",
@@ -25,6 +27,7 @@
     "react-hook-form": "^7.56.4",
     "react-leaflet": "^5.0.0",
     "react-redux": "^9.2.0",
+    "react-router-dom": "^6.30.1",
     "recharts": "^2.15.3",
     "tailwind-merge": "^3.3.0",
     "tailwindcss": "^4.1.7",
